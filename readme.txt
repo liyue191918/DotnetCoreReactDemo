@@ -1,6 +1,3 @@
-Which editor or ide was used ?
-   Visual Studio Code
-
 How to build and run the App?
   Ensure you have an environment variable called ASPNETCORE_Environment with value of Development. 
   On Windows (in non-PowerShell prompts), run SET ASPNETCORE_Environment=Development. 
